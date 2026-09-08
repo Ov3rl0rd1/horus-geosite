@@ -1,5 +1,7 @@
 /.idea/
 /vendor/
-**.db
-/rule-set/
-/rule-set-unstable/
+/*.dat
+/*.sha256sum
+/release/
+/horus-geosite
+/horus-geosite.exe

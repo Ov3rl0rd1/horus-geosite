@@ -11,7 +11,6 @@ linters-settings:
     custom-order: true
     sections:
       - standard
-      - prefix(github.com/sagernet/)
       - default
   staticcheck:
-    go: '1.20'
+    go: '1.23'
